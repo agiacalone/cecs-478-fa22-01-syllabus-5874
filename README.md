@@ -66,7 +66,7 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 |  Week      | Subject                                             |
 |------------|-----------------------------------------------------|
-| Aug 23     | Introduction to Computer Security and Hacking (Ch 1)|
+| Aug 22     | Introduction to Computer Security and Hacking (Ch 1)|
 | Aug 29     | Programming for Hackers (Ch 2)                      |
 | Sep  5     | Exploitation (Ch 3)                                 |
 | Sep 12     | Exploitation, ctd.                                  |
