@@ -1,24 +1,24 @@
 # Introduction to Computer Security Principles
 
-## CECS 378: Section 3 (11471)
+## CECS 478: Section 1 (5874)
 
-### Spring 2022
+### Fall 2022
 
-| Class Lecture | Time              | Room    |
-|---------------|-------------------|---------|
-| Mon Wed       | 8:00 AM - 9:15 AM | ECS-302 |
+| Class Lecture | Time                | Room    |
+|---------------|---------------------|---------|
+| Mon Wed       | 11:00 AM - 12:15 PM | ECS-308 |
 
 | Instructor        | Email                       | Office  | Office Hours           |
 |-------------------|-----------------------------|---------|------------------------|
-| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-526 | 10:45 - 11:45 AM, 3:15 - 4:15 PM Mon Wed |
+| Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-526 | 10:00 - 11:00 AM MoTuWeTh |
 
 ### Required Textbook
 
-* [Computer Security: Principles and Practice](https://www.amazon.com/Computer-Security-Principles-Practice-4th/dp/0134794109) by William Stallings and Lawrie Brown. 2017. 4th edition.
+* [Hacking: The Art of Exploitation](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441) by Jon Erikson. 2008. 2nd edition.
 
 ### Catalog Description
 
-**Prerequisites**: CECS 229 and CECS 274 or CECS 275 all with a grade of C or better. An introduction to the fundamentals of cryptography and information and computer security. Basic concepts, theories and protocols in computer security. Basic cryptography, software security, operating system security, database security, network security, human factors, social engineering, digital forensics, privacy and anonymity. Letter grade only (A-F). (Lecture 2 hours, Laboratory 3 hours).
+**Prerequisites**: Prerequisites: CECS 229 and CECS 274 or CECS 275 all with a grade of C or better. An introduction to the fundamentals of cryptography and information and computer security. Basic concepts, theories and protocols in computer security. Basic cryptography, software security, operating system security, database security, network security, human factors, social engineering, digital forensics, privacy and anonymity. Letter grade only (A-F). (Lecture 2 hours, Laboratory 3 hours).
 
 ### Course Goals
 
@@ -66,22 +66,22 @@ Homework and lab assignments will be assigned approximately every other week, an
 
 |  Week      | Subject                                             |
 |------------|-----------------------------------------------------|
-| Jan 20     | No class                              |
-| Jan 27     | Intro to Computer Security (Ch 1)                          |
-| Feb  3     | Symmetric and Assymmetric Encryption (Ch 2, 20, 21) |
-| Feb 10     | Encryption, ctd                                     |
-| Feb 17     | First exam, Malicious Software (Ch 6)               |
-| Feb 24     | Malicious Software, ctd                             |
-| Mar  2     | Denial of Service Attacks (Ch 7)                    |
-| Mar  9     | DoS ctd, Database and Cloud Security (Ch 5)         |
-| Mar 16     | Database, ctd                                       |
-| Mar 23     | Second Exam, Buffer Overflow Attacks (Ch 10)        |
-| Mar 30     | Buffer Overflow, ctd                                |
-| Apr  6     | User Authentication and Access Control (Ch 3, 4)    |
-| Apr 13     | UAAC ctd, Intrusion Detection (Ch 8)                |
-| Apr 20     | Spring Break                                        |
-| Apr 27     | OS Security (Ch 12)                                 |
-| May  4-11  | Case Study, Final Exam                              |
+| Aug 23     | Introduction to Computer Security and Hacking (Ch 1)|
+| Aug 29     | Programming for Hackers (Ch 2)                      |
+| Sep  5     | Exploitation (Ch 3)                                 |
+| Sep 12     | Exploitation, ctd.                                  |
+| Sep 19     | First exam, Networking (Ch 4)                       |
+| Sep 26     | Networking, ctd.                                    |
+| Oct  3     | Shellcode (Ch 5)                                    |
+| Oct 10     | Shellcode, ctd.                                     |
+| Oct 17     | Second Exam, Countermeasures (Ch 6)                 |
+| Oct 24     | Countermeasures, ctd.                               |
+| Oct 31     | Cryptography/Cryptology (Ch 7)                      |
+| Nov  7     | Crypto, ctd.                                        |
+| Nov 14     | Crypto, ctd.                                        |
+| Nov 21     | Fall Break                                          |
+| Nov 28     | Case Studies in Hacking                             |
+| Dec 5-12   | Case Study, Final Exam                              |
 
 ### Computer Software
 
